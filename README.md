@@ -41,4 +41,4 @@ A graph consisting of vertices and   edges   such   that   the   following   pro
 4. Regular property: The graph is  r-regular , meaning each vertex has exactly  r outgoing edges. The number of directed edges originating from a vertex is the  outdegree of the vertex.
 5. Girth property: The girth of the graph is of size  g . The girth of a graph is the length of the   shortest   cycle   contained   in   the   graph.
 
-
+### Correct solutions (picturing the amount of valid structures) are in the CountTestsSoln.txt file
